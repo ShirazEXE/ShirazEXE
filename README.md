@@ -6,9 +6,9 @@
 
 #  🐱**SHIRAZEXE**
 
-##   Computer Science & Engineering Explorer ️
+**`Digital Nomad(Developer&Explorer)`**
 
-Passionate novie on a journey to explore the vast landscape of computer science & engineering.  Equipped with a growing toolkit of frameworks and languages and burdened with impossible bugs and errors I am searching for ways to use my skills and solve problems. 
+Driven by an insatiable curiosity, I venture forth into the enchanted realm of computer science and engineering. My knapsack brims with potent tools - languages and frameworks and shoulders burdened with impossible bugs and errors.  I'm eager to tackle challenges and use my skills to solve problems. This journey of discovery fuels my love for the world of computers and machines, so I really wish for is to live my mark in this wonderful world through solving unsolvable problems.
 
 **Front-End Fundamentals**
 
