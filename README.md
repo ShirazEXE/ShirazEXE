@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://miro.medium.com/v2/resize:fit:1200/0*n-2bW82Z6m6U2bij.jpeg" alt="ShirazEXE" width="400" />  **ShirazEXE**  </div>
+<img src="https://miro.medium.com/v2/resize:fit:1200/0*n-2bW82Z6m6U2bij.jpeg" alt="ShirazEXE" width="400" /> </div>
 
 <br>
+
+# **SHIRAZEXE**
 
 ##   Computer Science & Engineering Explorer ️
 
