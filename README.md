@@ -5,7 +5,7 @@
 <br>
 
 #  🐱**SHIRAZEXE**
-**`Digital Nomad(Developer&Explorer)`**
+**`Digital Explorer`**
 <br>
 
 <h3 align="left">Connect with me:</h3>
@@ -21,7 +21,8 @@
 
 # **About Me**
 
-Driven by an insatiable curiosity, I venture forth into the enchanted realm of computer science and engineering. My knapsack brims with potent tools - languages and frameworks and shoulders burdened with impossible bugs and errors.  I'm eager to tackle challenges and use my skills to solve problems. This journey of discovery fuels my love for the world of computers and machines, so I really wish for is to live my mark in this wonderful world through solving unsolvable problems.
+Driven by an insatiable curiosity, I venture forth into the enchanted realm of computer science and engineering. My knapsack(get it?)
+brims with potent tools - languages and frameworks and shoulders burdened with impossible bugs and errors.  I'm eager to tackle challenges and use my skills to solve problems. This journey of discovery fuels my love for the world of computers and machines, so I really wish for is to live my mark in this wonderful world through solving unsolvable problems.
 
 **Front-End Fundamentals**
 
