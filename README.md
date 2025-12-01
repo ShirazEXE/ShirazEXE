@@ -1,11 +1,5 @@
-<div align="center">
-
-<img src="https://miro.medium.com/v2/resize:fit:1200/0*n-2bW82Z6m6U2bij.jpeg" alt="ShirazEXE" width="400" /> </div>
-
-<br>
-
-#  🐱**SHIRAZEXE**
-**`Digital Explorer`**
+#  **SHIRAZEXE**
+**`Developer & Tech Enthusiast`**
 <br>
 
 <h3 align="left">Connect with me:</h3>
